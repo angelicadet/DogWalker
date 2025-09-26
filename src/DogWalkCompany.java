@@ -35,5 +35,4 @@ public class DogWalkCompany
      {
          schedule[hour] -= numberDogsWalked;
      }
-
 }
