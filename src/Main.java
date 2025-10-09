@@ -12,6 +12,7 @@ public class Main
         System.out.println("$" + w.dogWalkShift(7,10) + ".00 earned");
         for (int i = 7; i < 11; i++)
             c.addDogs();
+        System.out.println(w.dogWalkShift(7,10));
 
 
     }
